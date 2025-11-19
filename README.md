@@ -8,13 +8,62 @@
   />
 </div>
 
-<img width="1280" height="720" alt="DAY2JOB_Banner2" src="https://github.com/user-attachments/assets/226a25c4-f5df-4d27-8337-86dae397ab9d" />
-<img width="1080" height="1920" alt="ScreenShot (5)" src="https://github.com/user-attachments/assets/0b9c3c15-fc13-4f79-8b12-5ac3c70a30aa" />
-<img width="1080" height="1920" alt="ScreenShot (4)" src="https://github.com/user-attachments/assets/1f183564-6507-401e-843e-971619ed325d" />
-<img width="1080" height="1920" alt="ScreenShot (3)" src="https://github.com/user-attachments/assets/88905a41-7bdb-42fa-9d13-a089f57ce902" />
-<img width="1080" height="1920" alt="ScreenShot (2)" src="https://github.com/user-attachments/assets/ae17242f-ad30-4017-baa4-05ff58c544ad" />
-<img width="1080" height="1920" alt="ScreenShot (1)" src="https://github.com/user-attachments/assets/3b9e6a48-d79f-494f-be59-d7e36c6df8c8" />
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/226a25c4-f5df-4d27-8337-86dae397ab9d" 
+    alt="DAY2JOB Banner" 
+    style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin: 20px 0;"
+  />
+</div>
 
+<h3 align="center">📱 Mobile App Screenshots</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img 
+          src="https://github.com/user-attachments/assets/0b9c3c15-fc13-4f79-8b12-5ac3c70a30aa" 
+          alt="ScreenShot 5" 
+          style="max-width: 280px; width: 100%; height: auto; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);"
+        />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img 
+          src="https://github.com/user-attachments/assets/1f183564-6507-401e-843e-971619ed325d" 
+          alt="ScreenShot 4" 
+          style="max-width: 280px; width: 100%; height: auto; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);"
+        />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img 
+          src="https://github.com/user-attachments/assets/88905a41-7bdb-42fa-9d13-a089f57ce902" 
+          alt="ScreenShot 3" 
+          style="max-width: 280px; width: 100%; height: auto; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img 
+          src="https://github.com/user-attachments/assets/ae17242f-ad30-4017-baa4-05ff58c544ad" 
+          alt="ScreenShot 2" 
+          style="max-width: 280px; width: 100%; height: auto; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);"
+        />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img 
+          src="https://github.com/user-attachments/assets/3b9e6a48-d79f-494f-be59-d7e36c6df8c8" 
+          alt="ScreenShot 1" 
+          style="max-width: 280px; width: 100%; height: auto; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);"
+        />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <!-- Empty cell for alignment -->
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <strong>A comprehensive job search platform with a Flutter mobile application and Node.js/Express backend API.</strong>
