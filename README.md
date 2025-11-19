@@ -1,9 +1,16 @@
 # JOB2DAY - Full-Stack Job Search Platform
 
-<img width="1875" height="871" alt="image" src="https://github.com/user-attachments/assets/43ea82b4-14f2-41f8-a756-97706501b131" />
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/43ea82b4-14f2-41f8-a756-97706501b131" 
+    alt="JOB2DAY Platform Screenshot" 
+    style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin: 20px 0;"
+  />
+</div>
 
-
-A comprehensive job search platform with a Flutter mobile application and Node.js/Express backend API.
+<p align="center">
+  <strong>A comprehensive job search platform with a Flutter mobile application and Node.js/Express backend API.</strong>
+</p>
 
 ## 📋 Table of Contents
 
