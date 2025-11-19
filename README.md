@@ -4,7 +4,7 @@
   <img 
     src="https://github.com/user-attachments/assets/57878688-9f66-49d4-9202-ab2e7c325e69" 
     alt="JOB2DAY Logo" 
-    style="max-width: 50px; width: 50%; height: auto; border-radius: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); margin: 20px 0; transition: transform 0.3s ease;"
+    style="max-width: 50px; width: 30%; height: auto; border-radius: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); margin: 20px 0; transition: transform 0.3s ease;"
   />
   
   <h2 style="margin-top: 10px; color: #2563eb; font-weight: 600;">
