@@ -1,0 +1,14 @@
+{
+  "users": [],
+  "companies": [],
+  "contactInfos": [],
+  "contacts": [],
+  "summary": {
+    "totalUsers": 0,
+    "totalCompanies": 0,
+    "totalContactInfos": 0,
+    "totalContacts": 0,
+    "totalGmails": 0,
+    "extractedAt": "2025-09-27T09:03:46.707Z"
+  }
+}

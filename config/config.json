@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "maaz",
+    "database": "harpaljob_laravel",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "YOUR_DB_USER",
+    "password": "YOUR_DB_PASSWORD",
+    "database": "YOUR_DB_NAME",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "YOUR_DB_USER",
+    "password": "YOUR_DB_PASSWORD",
+    "database": "YOUR_DB_NAME",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+} 
+

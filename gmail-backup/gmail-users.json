@@ -1,0 +1,78 @@
+[
+  {
+    "id": 9,
+    "firstName": "Omar",
+    "lastName": "Sheikh",
+    "email": "omar.sheikh@gmail.com",
+    "phoneNumber": "+92-304-5678901",
+    "createdAt": "2025-09-27T09:08:47.000Z",
+    "updatedAt": "2025-09-27T09:08:47.000Z",
+    "source": "Users"
+  },
+  {
+    "id": 7,
+    "firstName": "Muhammad",
+    "lastName": "Hassan",
+    "email": "m.hassan@gmail.com",
+    "phoneNumber": "+92-302-3456789",
+    "createdAt": "2025-09-27T09:08:46.000Z",
+    "updatedAt": "2025-09-27T09:08:46.000Z",
+    "source": "Users"
+  },
+  {
+    "id": 8,
+    "firstName": "Aisha",
+    "lastName": "Malik",
+    "email": "aisha.malik@gmail.com",
+    "phoneNumber": "+92-303-4567890",
+    "createdAt": "2025-09-27T09:08:46.000Z",
+    "updatedAt": "2025-09-27T09:08:46.000Z",
+    "source": "Users"
+  },
+  {
+    "id": 5,
+    "firstName": "Ahmed",
+    "lastName": "Khan",
+    "email": "ahmed.khan@gmail.com",
+    "phoneNumber": "+92-300-1234567",
+    "createdAt": "2025-09-27T09:08:45.000Z",
+    "updatedAt": "2025-09-27T09:08:45.000Z",
+    "source": "Users"
+  },
+  {
+    "id": 6,
+    "firstName": "Fatima",
+    "lastName": "Ali",
+    "email": "fatima.ali@gmail.com",
+    "phoneNumber": "+92-301-2345678",
+    "createdAt": "2025-09-27T09:08:45.000Z",
+    "updatedAt": "2025-09-27T09:08:45.000Z",
+    "source": "Users"
+  },
+  {
+    "id": 1,
+    "firstName": "Sarah Ahmed",
+    "lastName": "",
+    "email": "sarah.ahmed@gmail.com",
+    "phoneNumber": "",
+    "createdAt": "2025-09-27T09:08:48.000Z",
+    "updatedAt": "2025-09-27T09:08:48.000Z",
+    "source": "Contacts",
+    "subject": "Job Inquiry",
+    "message": "I am interested in applying for a position at your company.",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "firstName": "Ali Raza",
+    "lastName": "",
+    "email": "ali.raza@gmail.com",
+    "phoneNumber": "",
+    "createdAt": "2025-09-27T09:08:48.000Z",
+    "updatedAt": "2025-09-27T09:08:48.000Z",
+    "source": "Contacts",
+    "subject": "Partnership Proposal",
+    "message": "I would like to discuss a potential partnership opportunity.",
+    "status": "pending"
+  }
+]

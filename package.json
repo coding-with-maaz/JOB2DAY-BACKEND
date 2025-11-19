@@ -1,0 +1,36 @@
+{
+  "name": "harpaljob-backend",
+  "version": "1.0.0",
+  "description": "Backend for HarPalJob.com",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "dev:seed": "NODE_ENV=development nodemon src/server.js",
+    "seed:data": "node seeders/seed.js",
+    "seed:reset": "node seeders/reset.js"
+  },
+  "dependencies": {
+    "@tinymce/tinymce-react": "^4.3.2",
+    "axios": "^1.10.0",
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.5.0",
+    "express-validator": "^7.2.1",
+    "firebase-admin": "^13.4.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.0",
+    "mysql2": "^3.6.0",
+    "node-cron": "^4.1.1",
+    "nodemailer": "^6.10.1",
+    "react-helmet-async": "^2.0.5",
+    "sequelize": "^6.32.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

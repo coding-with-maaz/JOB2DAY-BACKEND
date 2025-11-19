@@ -1,0 +1,27 @@
+
+Gmail Addresses Migration Summary
+================================
+Date: 2025-09-27T09:09:16.553Z
+Total Gmail Addresses Found: 7
+
+Breakdown by Source:
+- Users Table: 5
+- Companies Table: 0
+- ContactInfos Table: 0
+- Contacts Table: 2
+
+Files Created:
+- gmail-addresses.txt: Simple list of Gmail addresses
+- gmail-users.json: Detailed user information in JSON format
+- gmail-users.csv: Detailed user information in CSV format
+- migration-summary.txt: This summary file
+
+Sample Gmail Addresses:
+omar.sheikh@gmail.com
+m.hassan@gmail.com
+aisha.malik@gmail.com
+ahmed.khan@gmail.com
+fatima.ali@gmail.com
+sarah.ahmed@gmail.com
+ali.raza@gmail.com
+

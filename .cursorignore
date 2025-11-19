@@ -1,0 +1,41 @@
+# Cursor IDE ignore patterns
+
+# Custom ignored files
+*.ignored
+
+# Build outputs
+node_modules/
+build/
+dist/
+.dart_tool/
+.pub/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+

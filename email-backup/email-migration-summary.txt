@@ -1,0 +1,33 @@
+
+Email Addresses Migration Summary
+================================
+Date: 2025-09-27T09:07:58.963Z
+Total Email Addresses Found: 7
+
+Breakdown by Source:
+- Users Table: 4
+- Companies Table: 3
+- Contacts Table: 0
+
+Domain Analysis:
+- example.com: 3 emails
+- harpaljob.com: 2 emails
+- techinnovate.com: 1 emails
+- datasphere.com: 1 emails
+
+Files Created:
+- all-email-addresses.txt: Simple list of all email addresses
+- all-email-users.json: Detailed user information in JSON format
+- all-email-users.csv: Detailed user information in CSV format
+- email-domains-analysis.json: Domain analysis in JSON format
+- email-migration-summary.txt: This summary file
+
+Sample Email Addresses:
+admin@harpaljob.com
+admin@example.com
+john.doe@example.com
+jane.smith@example.com
+contact@harpaljob.com
+info@techinnovate.com
+contact@datasphere.com
+
