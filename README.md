@@ -1,5 +1,8 @@
 # 🚀 JOB2DAY - Full-Stack Job Search Platform
 
+<img width="512" height="512" alt="Logo" src="https://github.com/user-attachments/assets/57878688-9f66-49d4-9202-ab2e7c325e69" />
+
+
 <div align="center">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
