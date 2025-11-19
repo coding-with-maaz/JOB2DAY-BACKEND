@@ -3,7 +3,7 @@
 <div align="center">
   <img 
     src="https://github.com/user-attachments/assets/43ea82b4-14f2-41f8-a756-97706501b131" 
-    alt="JOB2DAY Platform Screenshot" 
+    alt="JOB2DAY APIS RESPONSE" 
     style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin: 20px 0;"
   />
 </div>
