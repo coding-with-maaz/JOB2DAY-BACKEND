@@ -1,15 +1,29 @@
 # 🚀 JOB2DAY - Full-Stack Job Search Platform
 
-<img width="512" height="512" alt="Logo" src="https://github.com/user-attachments/assets/57878688-9f66-49d4-9202-ab2e7c325e69" />
-
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/57878688-9f66-49d4-9202-ab2e7c325e69" 
+    alt="JOB2DAY Logo" 
+    style="max-width: 200px; width: 100%; height: auto; border-radius: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); margin: 20px 0; transition: transform 0.3s ease;"
+  />
+  
+  <h2 style="margin-top: 10px; color: #2563eb; font-weight: 600;">
+    🎯 Open Source • Free to Use • Production Ready
+  </h2>
+  
+  <p style="font-size: 18px; color: #64748b; margin: 10px 0 20px 0;">
+    <strong>JOB2DAY-BACKEND WITH ALL APIS OPEN SOURCE FREE TO USE</strong>
+  </p>
+</div>
 
 <div align="center">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)
 ![Flutter](https://img.shields.io/badge/Flutter-3.8.1%2B-blue.svg)
-![License](https://img.shields.io/badge/license-Proprietary-red.svg)
+![License](https://img.shields.io/badge/license-Open%20Source-green.svg)
 ![Status](https://img.shields.io/badge/status-Active-success.svg)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)
 
 **A comprehensive job search platform connecting job seekers with employers**
 
